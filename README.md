@@ -9,7 +9,7 @@
 
 ### Daniele Ferreira Galvão || [DanieleFG](https://github.com/DanieleFG)
 
-### Indhira Viana Freire || [Indy-electro] (https://github.com/Indy-electro)
+### Indhira Viana Freire || [Indy-electro](https://github.com/Indy-electro)
 
 ### Manuele Maurício Lamenha
 
